@@ -109,5 +109,5 @@ It highlights expertise in **data analysis, regression modeling, hyperparameter 
 
 ## Author
 
-**Sumayya** — *M.Sc. in Artificial Intelligence*
+**Sumayya — M.Sc. in Artificial Intelligence**
 Passionate about applied AI, model interpretability, and real-world machine learning solutions.
