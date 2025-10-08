@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/AI-Driven-Housing-Price-Prediction.git
+git clone https://github.com/Sumayya-Samreen/AI-Driven-Housing-Price-Prediction.git
 cd AI-Driven-Housing-Price-Prediction
 ```
 
@@ -109,5 +109,5 @@ It highlights expertise in **data analysis, regression modeling, hyperparameter 
 
 ## Author
 
-**Sumayya — M.Sc. in Artificial Intelligence**
+**Sumayya Samreen — M.Sc. in Artificial Intelligence**
 Passionate about applied AI, model interpretability, and real-world machine learning solutions.
