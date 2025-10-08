@@ -102,7 +102,7 @@ jupyter notebook AI_Driven_Housing_Price_Prediction.ipynb
 
 ## Pro Tip for Recruiters / Collaborators
 
-This project exemplifies a **complete machine learning workflow** — from data preprocessing and feature engineering to model development, evaluation, and deployment readiness. 
+This project exemplifies a **complete machine learning workflow**; from data preprocessing and feature engineering to model development, evaluation, and deployment readiness. 
 It highlights expertise in **data analysis, regression modeling, hyperparameter tuning, online machine learning, and interactive visualization**, making it a strong portfolio piece for roles in **machine learning, data science, and AI engineering**.
 
 ---
