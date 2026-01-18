@@ -109,4 +109,4 @@ It highlights expertise in **data analysis, regression modeling, hyperparameter 
 
 ## Author
 **Sumayya Samreen — M.Sc. in Artificial Intelligence**<br>
-Passionate about applied AI, model interpretability, and real-world machine learning solutions.
+Focused on developing practical Python-based solutions for predictive modeling, interactive analysis, and data-driven decision-making.
